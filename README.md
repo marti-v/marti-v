@@ -1,4 +1,4 @@
-# Hi, I'm martiavp 👋
+# Hi, I'm Martí V. 👋
 
 ## Main Programming Languages
 
